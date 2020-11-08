@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    align-items: center;
+}
+
+.continer{
+    border: 1px solid black;
+    height: 600px;
+    width: 800px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+
+}
+img{
+    height: 25%;
+    margin: 10px;
+    box-shadow: 2px 2px 9px  cyan;
+}
+button{
+    margin: 20px;
+    border: none;
+    height: 30px;
+    width: 100px;
+    outline: none;
+    border: 1px solid cyan;
+    box-shadow: 1px 3px 9px cyan;
+}
+h1{
+    color:rgb(110, 146, 146);
+    text-shadow: 2px 2px 9px cyan;
+}
